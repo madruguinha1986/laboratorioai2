@@ -1,7 +1,7 @@
 # laboratorioai2
 
 ## A primeira imagem utilizada foi a seguinte:
-<img src="https://raw.githubusercontent.com/madruguinha1986/laboratorioai2/master/inputs/Primeira_Imagem.png" alt="Cartão de Previdência Social">
+![cartão de identificação](inputs/Primeira_Imagem.png)
 
 Primeiro criamos um novo recurso no portal do zaure: www.azure.com
 
@@ -16,6 +16,15 @@ A inteligência do azure é excepicional, facilmente você consegue navegar pelo
 Esse exemplo é interessantíssimo, mesmo havendo vários tipos de imagens no cartão e ainda havendo uma imagem desfocada ao fundo, a AI capitura todos os caracteres disponivéis,entregando um resultado eficiente e eficaz, um simples exemplo, mas que já demostra o quão preciso essa ferramenta é.
 
 ## Terceira e última Imagem utilizada:
+
+![árvore, bicileta e letreiro](inputs/Terceira_Imagem.png)
+
+Essa imagem está com muitas informações que poderia confundir a AI, mas isso não aconteceu, ela capturou todos os caracteres precisamente.
+
+## Resultados
+
+Em todos os exemplos a resposta da IA da Microsoft demonstrou resultados precisos, além de haver uma gama de recursos a ser explorados.
+
 
 
 
