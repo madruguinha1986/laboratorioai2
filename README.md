@@ -11,6 +11,16 @@ A inteligência do azure é excepicional, facilmente você consegue navegar pelo
 
 ## Segunda Imagem utilizada:
 
+![cartão de identificação](inputs/Segunda_Imagem.png)
+
+Esse exemplo é interessantíssimo, mesmo havendo vários tipos de imagens no cartão e ainda havendo uma imagem desfocada ao fundo, a AI capitura todos os caracteres disponivéis,entregando um resultado eficiente e eficaz, um simples exemplo, mas que já demostra o quão preciso essa ferramenta é.
+
+## Terceira e última Imagem utilizada:
+
+
+
+
+
 
 
 
